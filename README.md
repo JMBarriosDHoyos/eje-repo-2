@@ -1,2 +1,1 @@
-# eje-repo-2
-ejemplo 2 de crear   repositorio  del modulo 2 "Henry"
+ejercicio de crear repositorio y clonarlo a mi laptop
